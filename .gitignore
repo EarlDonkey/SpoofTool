@@ -44,3 +44,6 @@ kernel/**/Release/
 *.sys
 *.pdb
 *.obj
+
+# --- PyInstaller spec ---
+*.spec
